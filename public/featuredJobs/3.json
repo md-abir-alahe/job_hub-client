@@ -1,0 +1,17 @@
+{
+    "id": "3",
+    "company_logo": "Logo/tesla-9 1.png",
+    "job_title": "Data Scientist",
+    "company_name": "Tesla",
+    "remote_or_onsite": "Remote",
+    "location": "Seattle, WA",
+    "fulltime_or_parttime": "Full-time",
+    "salary": "$110,000 - $130,000",
+    "job_description": "We are looking for an experienced data scientist to join our team...",
+    "job_responsibility": "Design and develop machine learning models to solve business problems...",
+    "educational_requirements": "Master's or PhD in Computer Science or related field...",
+    "experiences": "5+ years of experience in data science or related field...",
+      "phone": "555-9101",
+      "email": "jobs@123corp.com"
+    
+  }

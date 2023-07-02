@@ -1,0 +1,17 @@
+{
+    "id": "1",
+    "company_logo": "Logo/google-1-1 1-1.png",
+    "job_title": "Software Engineer",
+    "company_name": "Google",
+    "remote_or_onsite": "Remote",
+    "location": "San Francisco, CA",
+    "fulltime_or_parttime": "Full-time",
+    "salary": "$100,000 - $120,000",
+    "job_description": "We are looking for a talented software engineer to join our team...",
+    "job_responsibility": "Develop and maintain high-quality software applications...",
+    "educational_requirements": "Bachelor's or Master's degree in Computer Science...",
+    "experiences": "5+ years of experience in software development...",
+      "phone": "555-1234",
+      "email": "jobs@abccorp.com"
+    
+  }
